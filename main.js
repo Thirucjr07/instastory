@@ -1,7 +1,7 @@
 const allStories = [
   {
-    thumbUrl: "images/pine.JFIF",
-    imageUrl: "images/pine.JFIF",
+    thumbUrl: "images/dry3.png",
+    imageUrl: "images/dry3.png",
     title: "Fruits 1",
   },
 
@@ -12,8 +12,8 @@ const allStories = [
   },
 
   {
-    thumbUrl: "images/pine.JFIF",
-    imageUrl: "images/pine.JFIF",
+      thumbUrl: "images/dry3.png",
+    imageUrl: "images/dry3.png",
     title: "Fruits 3",
   },
 
@@ -24,8 +24,8 @@ const allStories = [
   },
 
   {
-    thumbUrl: "images/pine.JFIF",
-    imageUrl: "images/pine.JFIF",
+     thumbUrl: "images/dry3.png",
+    imageUrl: "images/dry3.png",
     title: "Fruits 5",
   },
 
@@ -36,8 +36,8 @@ const allStories = [
   },
 
   {
-    thumbUrl: "images/pine.JFIF",
-    imageUrl: "images/pine.JFIF",
+      thumbUrl: "images/dry3.png",
+    imageUrl: "images/dry3.png",
     title: "Fruits 7",
   },
 
