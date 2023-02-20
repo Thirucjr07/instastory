@@ -1,7 +1,7 @@
 const allStories = [
   {
-    thumbUrl: "images/dry3.png",
-    imageUrl: "images/dry3.png",
+    thumbUrl: "images/dry3.jpg",
+    imageUrl: "images/dry3.jpg",
     title: "Fruits 1",
   },
 
@@ -12,8 +12,8 @@ const allStories = [
   },
 
   {
-      thumbUrl: "images/dry3.png",
-    imageUrl: "images/dry3.png",
+      thumbUrl: "images/dry3.jpg",
+    imageUrl: "images/dry3.jpg",
     title: "Fruits 3",
   },
 
@@ -24,8 +24,8 @@ const allStories = [
   },
 
   {
-     thumbUrl: "images/dry3.png",
-    imageUrl: "images/dry3.png",
+     thumbUrl: "images/dry3.jpg",
+    imageUrl: "images/dry3.jpg",
     title: "Fruits 5",
   },
 
@@ -36,8 +36,8 @@ const allStories = [
   },
 
   {
-      thumbUrl: "images/dry3.png",
-    imageUrl: "images/dry3.png",
+      thumbUrl: "images/dry3.jpg",
+    imageUrl: "images/dry3.jpg",
     title: "Fruits 7",
   },
 
