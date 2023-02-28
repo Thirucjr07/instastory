@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;900&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&family=DM+Sans:wght@400;500;700&display=swap');
+
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins' !important;
+}
+/*Insta story setup*/
+
+.in-sim{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border:3px solid red;
+}
+.modal-header{
+    border-bottom: 1px solid transparent;
+}
+.modal-dialog{
+    width: 100%;
+    position: relative;
+    top: -31px;
+    border-radius: 0px;
+    border: 1px solid transparent;
+}
+.modal-body {
+    position: unset !important;
+}
+.modal-content {
+    position: relative;
+    background-color: #6c6a6a;
+    -webkit-background-clip: none;
+    background-clip:none;
+    border: none;
+    height: 100vh;
+    border:none;
+    border-radius: 0px;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.is-md .close{
+    color: #fff;
+}
+/*Insta story setup*/
+
